@@ -18,8 +18,8 @@ description: Set-up your server with Bloxlink.
 
 ## Permissions
 
-**Bloxlink Manager**   
-To grant this permission:   
+**Bloxlink Manager**  
+To grant this permission:  
 You need the `Manage Server` role permission.
 
 ### Return to Category

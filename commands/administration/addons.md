@@ -27,7 +27,7 @@ This command is reserved for the Bloxlink Developer as of now.
 ### Permissions
 
 **Bloxlink Manager**  
-To grant this permission:   
+To grant this permission:  
 You need the `Manage Server` role permission.
 
 ### Return to Category

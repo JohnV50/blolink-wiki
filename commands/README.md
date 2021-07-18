@@ -32,5 +32,3 @@ The command prefix is `!` because this is Bloxlink's default prefix. Yours can b
 
 {% page-ref page="../bloxlink/" %}
 
-
-

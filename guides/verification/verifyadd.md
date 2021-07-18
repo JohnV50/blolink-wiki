@@ -18,7 +18,7 @@ Select any server you wish! And scroll down till you see the box to verify a new
 
 ![](https://dark.hates-this.place/f/SghrFb.png)
 
-Enter your Roblox username, pick a method  and click `Next`. Complete the verification process and that's all!
+Enter your Roblox username, pick a method and click `Next`. Complete the verification process and that's all!
 
 {% hint style="info" %}
 Do you want to make it your primary account? Check the "Set this as your primary account" box!
@@ -26,11 +26,11 @@ Do you want to make it your primary account? Check the "Set this as your primary
 
 Do you need more help or a better visual guide? Check this video:
 
-{% embed url="https://youtu.be/hq496NmQ9GU?t=413" %}
+{% embed url="https://youtu.be/hq496NmQ9GU?t=413" caption="" %}
 
 Thanks for using Bloxlink! &lt;3
 
-### Return to Verification Guides
+## Return to Verification Guides
 
 {% page-ref page="./" %}
 

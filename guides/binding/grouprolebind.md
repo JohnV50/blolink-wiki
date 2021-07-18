@@ -47,7 +47,7 @@ Now, let's provide the name\(s\) of the role\(s\) users should get if they meet 
 
 ![](https://dark.hates-this.place/f/BmeIyC.png)
 
-To make your all your group members get this role, say `everyone`! 
+To make your all your group members get this role, say `everyone`!
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
@@ -55,9 +55,9 @@ That's all! You have successfully bound a role to all your group members!
 
 ## Advanced Usage
 
- You are actually able to make an entire group-role-bind just in 1 command. The `<>` and keywords are just to demonstrate, so **remove** them and replace with what you'd like.
+You are actually able to make an entire group-role-bind just in 1 command. The `<>` and keywords are just to demonstrate, so **remove** them and replace with what you'd like.
 
- You shall **not** remove the `""`. 
+You shall **not** remove the `""`.
 
 `!bind group "<nicknameTemplate>" "<removeRoles>" <groupID> "select ranks" "<addRoles>" everyone`
 

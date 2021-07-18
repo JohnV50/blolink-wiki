@@ -12,7 +12,7 @@ Start by going to [blox.link](https://blox.link) and signing in with Discord!
 
 ![](https://dark.hates-this.place/f/fFBRiE.png)
 
-You will be prompted with a Discord authorization. You have to authorize Bloxlink to be able to access: 
+You will be prompted with a Discord authorization. You have to authorize Bloxlink to be able to access:
 
 * Your username and avatar.
 * Know what servers you're in.
@@ -49,15 +49,15 @@ Pick a verification method! We have two methods, Game Verification and Code Veri
 Wohoo! You have successfully verified your Roblox account with Bloxlink!  
 Thanks for using Bloxlink. &lt;3
 
-Need a better visual guide? Watch this video! 
+Need a better visual guide? Watch this video!
 
-{% embed url="https://youtu.be/hq496NmQ9GU?t=25" %}
+{% embed url="https://youtu.be/hq496NmQ9GU?t=25" caption="" %}
 
 ## How to verify on Mobile 📱
 
 You can simply watch this video which explains step by step what to do!
 
-{% embed url="https://www.youtube.com/watch?v=xUNtr9vY0iU" %}
+{% embed url="https://www.youtube.com/watch?v=xUNtr9vY0iU" caption="" %}
 
 That's all! Thanks for using Bloxlink services! &lt;3
 

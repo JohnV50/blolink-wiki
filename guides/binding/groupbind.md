@@ -10,7 +10,7 @@ A Group Bind is when you link a Roblox group to your Discord server. Different t
 
 ## Normal Usage
 
-If you haven't ran the `!setup`  command yet, you should configure your server first. You will be able to link a group trough the setup command.  
+If you haven't ran the `!setup` command yet, you should configure your server first. You will be able to link a group trough the setup command.  
 If you're looking to add a new group, keep reading!
 
 {% page-ref page="../others/setup.md" %}
@@ -38,7 +38,7 @@ The next prompt is an **advanced option**! If you want Bloxlink to remove any ad
 Roles that are bound **can not** be removed, they **must** be not bound roles!
 {% endhint %}
 
-Now provide your Roblox group ID! 
+Now provide your Roblox group ID!
 
 ![](https://dark.hates-this.place/f/OqHAJN.png)
 
@@ -58,9 +58,9 @@ That's all! You have successfully bound a group to your Discord server! Users wi
 
 ## Advanced Usage
 
- You are actually able to make an entire group bind just in 1 command. The `<>` and keywords are just to demonstrate, so **remove** them and replace with what you'd like.
+You are actually able to make an entire group bind just in 1 command. The `<>` and keywords are just to demonstrate, so **remove** them and replace with what you'd like.
 
- You shall **not** remove the `""`. 
+You shall **not** remove the `""`.
 
 `!bind group "<nicknameTemplate>" "<removeRoles>" <groupID> "entire group"`
 

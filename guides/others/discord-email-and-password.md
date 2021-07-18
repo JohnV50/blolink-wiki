@@ -18,7 +18,7 @@ Do not worry! Discord has a way to recover your password. When trying to log in,
 Once you change your password, you can login into your discord account! Yay!  
 Thanks for using Bloxlink. &lt;3
 
-### Return to Others Guides
+## Return to Others Guides
 
 {% page-ref page="./" %}
 

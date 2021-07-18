@@ -23,8 +23,8 @@ description: Scan your server for ban-evaders.
 **Premium Command**  
 This command can only be used by Bloxlink Premium members.
 
- **Bloxlink Moderator**   
-To grant this permission:   
+**Bloxlink Moderator**  
+To grant this permission:  
 You need the `Kick Members` or `Ban Members` role permission.
 
 ### Return to Category

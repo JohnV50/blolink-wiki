@@ -6,11 +6,11 @@ description: >-
 
 # Wrong Login 🚫
 
-Go to [blox.link](https://blox.link) and click `Logout`. 
+Go to [blox.link](https://blox.link) and click `Logout`.
 
 ![](https://dark.hates-this.place/f/Xq5D9q.png)
 
-Once you logged out, click `Sign in with Discord`. Now, before clicking `Authorize`,  we will click `Not you?` to log into the correct account before accessing the website!
+Once you logged out, click `Sign in with Discord`. Now, before clicking `Authorize`, we will click `Not you?` to log into the correct account before accessing the website!
 
 ![](https://dark.hates-this.place/f/DVgmQe.png)
 
@@ -33,7 +33,7 @@ They are not correct? Follow the guide again.
 That's it! You logged into the correct account on the website successfully if you followed the guide correctly!  
 Thanks for using Bloxlink. &lt;3
 
-### Go back to Other Tutorials
+## Go back to Other Tutorials
 
 {% page-ref page="./" %}
 

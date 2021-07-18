@@ -48,7 +48,7 @@ That's all! You have set up Bloxlink in less than 5 minutes, either say `done` o
 
 Do you need a better visual guide? Check this video:
 
-{% embed url="https://youtu.be/\_ghib7VQv1g" %}
+{% embed url="https://youtu.be/\_ghib7VQv1g" caption="" %}
 
 Thanks for using Bloxlink! &lt;3
 

@@ -23,5 +23,3 @@ description: Bloxlink and Wiki changelogs are shown here!
 
 {% page-ref page="./" %}
 
-
-

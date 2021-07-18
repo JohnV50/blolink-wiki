@@ -47,8 +47,8 @@ Now, let's provide the name\(s\) of the role\(s\) users should get if they meet 
 
 ![](https://dark.hates-this.place/f/BmeIyC.png)
 
-Provide the rolesets, aka the ID\(s\) of the rank\(s\) that should receive the role\(s\)! Bloxlink provides an embed with your respective ranks and their IDs.   
-It also provides examples on how to provide them! 
+Provide the rolesets, aka the ID\(s\) of the rank\(s\) that should receive the role\(s\)! Bloxlink provides an embed with your respective ranks and their IDs.  
+It also provides examples on how to provide them!
 
 * `1, 3`  Means ranks with the ID `1` and `3` will get the role\(s\). Rank with ID `2` won't!
 * `1 - 3` Means ranks with the ID `1`, `2` and `3` will get the role\(s\)! This is a range.
@@ -62,9 +62,9 @@ That's all! You have successfully made a role bind! Enjoy.
 
 ## Advanced Usage
 
- You are actually able to make an entire rank bind just in 1 command. The `<>` and keywords are just to demonstrate, so **remove** them and replace with what you'd like.
+You are actually able to make an entire rank bind just in 1 command. The `<>` and keywords are just to demonstrate, so **remove** them and replace with what you'd like.
 
- You shall **not** remove the `""`.
+You shall **not** remove the `""`.
 
 `!bind group "<nicknameTemplate>" "<removeRoles>" <groupID> "<select ranks>" "<addRoles>" rankIDs`
 
