@@ -27,15 +27,15 @@ Use the search bar on the right top side of your screen. Type a keyword of your 
 ## Wiki Keys 🔑
 
 {% hint style="info" %}
-Tips that are very useful, are going to be displayed in a box like this.
+Tips that are very useful are going to be displayed in a box like this.
 {% endhint %}
 
 {% hint style="warning" %}
-This is a warning box! Warnings/information that you need to be aware of will be displayed like this.
+Notes of information that you should know are going to be displayed in a box like this.
 {% endhint %}
 
 {% hint style="danger" %}
-This is a danger box. Mega important information, issues, or restricted/disabled features/commands will be displayed like this.
+Deprecated or not available commands/features are going to be displayed in a box like this.
 {% endhint %}
 
 ## Start Here 📌
