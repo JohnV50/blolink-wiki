@@ -23,7 +23,7 @@ Now, let's set a nickname-template for the users who meet this requirement. If y
 ![](https://dark.hates-this.place/f/HO50WU.png)
 
 {% hint style="warning" %}
-[🧠](https://emojipedia.org/brain/) **Note:** Templates must be spelled like Bloxlink shows you! You must include the curly brackets and dash. For example: `{smart-name}`
+Templates must be spelled like Bloxlink shows you! You must include the curly brackets and dash. For example: `{smart-name}`
 {% endhint %}
 
 The next prompt is an **advanced option**! If you want Bloxlink to remove any additional role\(s\) the user has, if they meet the bind requirements, name those roles! If there are multiple roles, separate them with a comma.
@@ -31,7 +31,7 @@ The next prompt is an **advanced option**! If you want Bloxlink to remove any ad
 ![](https://dark.hates-this.place/f/U9a8VZ.png)
 
 {% hint style="warning" %}
-[🧠](https://emojipedia.org/brain/) **Note:** 95% of the time, you should `skip` this option.  
+95% of the time, you should `skip` this option.  
 Roles that are bound **can not** be removed, they **must** be not bound roles!
 {% endhint %}
 
@@ -47,8 +47,8 @@ Now, let's provide the name\(s\) of the role\(s\) users should get if they meet 
 
 ![](https://dark.hates-this.place/f/BmeIyC.png)
 
-Provide the rolesets, aka the ID\(s\) of the rank\(s\) that should receive the role\(s\)! Bloxlink provides an embed with your respective ranks and their IDs.  
-It also provides examples on how to provide them!
+Provide the rolesets, aka the ID\(s\) of the rank\(s\) that should receive the role\(s\)! Bloxlink provides an embed with your respective ranks and their IDs.   
+It also provides examples on how to provide them! 
 
 * `1, 3`  Means ranks with the ID `1` and `3` will get the role\(s\). Rank with ID `2` won't!
 * `1 - 3` Means ranks with the ID `1`, `2` and `3` will get the role\(s\)! This is a range.
@@ -62,15 +62,15 @@ That's all! You have successfully made a role bind! Enjoy.
 
 ## Advanced Usage
 
-You are actually able to make an entire rank bind just in 1 command. The `<>` and keywords are just to demonstrate, so **remove** them and replace with what you'd like.
+ You are actually able to make an entire rank bind just in 1 command. The `<>` and keywords are just to demonstrate, so **remove** them and replace with what you'd like.
 
-You shall **not** remove the `""`.
+ You shall **not** remove the `""`.
 
 `!bind group "<nicknameTemplate>" "<removeRoles>" <groupID> "<select ranks>" "<addRoles>" rankIDs`
 
 That's all! You have made a rank bind in one command.
 
-Thanks for using Bloxlink. [❤️](https://emojipedia.org/red-heart/)
+Thanks for using Bloxlink. &lt;3
 
 ### Return to all Binding Tutorials
 
