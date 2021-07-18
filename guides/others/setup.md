@@ -21,7 +21,7 @@ Let's setup a nickname-template! Look trough the list and pick the one you like!
 ![](https://dark.hates-this.place/f/tYjTGt.png)
 
 {% hint style="warning" %}
-Templates must be spelled like Bloxlink shows you! You must include the curly brackets and dash. For example: `{smart-name}`
+[🧠](https://emojipedia.org/brain/) **Note:** Templates must be spelled like Bloxlink shows you! You must include the curly brackets and dash. For example: `{smart-name}`
 {% endhint %}
 
 Now, provide your Roblox group ID or link! Both are OK. If you don't want a group linked or you already linked one, say `skip`.
@@ -36,7 +36,8 @@ If you provided a Roblox group ID/link, Bloxlink will ask you if you want to **m
 
 ![](https://dark.hates-this.place/f/dXIojU.png)
 
-{% hint style="info" %}
+{% hint style="warning" %}
+[🧠](https://emojipedia.org/brain/) **Note:**   
 **Merge** will make Bloxlink create any missing roles from your group.
 
 **Replace** will delete **all** your Discord roles and will create your group ranks. **Be careful**, this **can not be undone**.
@@ -50,7 +51,7 @@ Do you need a better visual guide? Check this video:
 
 {% embed url="https://youtu.be/\_ghib7VQv1g" caption="" %}
 
-Thanks for using Bloxlink! &lt;3
+Thanks for using Bloxlink! [❤️](https://emojipedia.org/red-heart/)
 
 ### Return to Others Tutorials
 

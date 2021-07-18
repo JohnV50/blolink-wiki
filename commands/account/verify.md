@@ -20,11 +20,7 @@ description: Link your Roblox account to your Discord account and get your serve
 ```
 
 {% hint style="info" %}
-`!verify add` lets you link a new account.
-
-`!verify account` lets you unlink an account.
-
-`!verify view` shows you your linked accounts.
+[🧙](https://emojipedia.org/mage/) **Tips:**`!verify add` lets you link a new account.`!verify account` lets you unlink an account.      `!verify view` shows you your linked accounts.
 {% endhint %}
 
 ### Return to Category

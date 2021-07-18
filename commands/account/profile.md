@@ -11,7 +11,7 @@ description: View someone's personal profile.
 ```
 
 {% hint style="info" %}
-Use `!profile change` to alter your profile.
+[🧙](https://emojipedia.org/mage/) **Tips:** Use `!profile change` to alter your profile.
 {% endhint %}
 
 ### Return to Category

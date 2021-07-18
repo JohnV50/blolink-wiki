@@ -17,11 +17,7 @@ You will be prompted with a Discord authorization. You have to authorize Bloxlin
 * Your username and avatar.
 * Know what servers you're in.
 
-Make sure you can see your correct avatar and your username followed by your discrim.
-
-{% hint style="info" %}
-It is not correct? Click `Not You?` and login into your correct account! Need help? Check this guide:
-{% endhint %}
+Make sure you can see your correct avatar and your username followed by your discrim. You're not logged into the right account? Check this guide:
 
 {% page-ref page="../others/wronglogin.md" %}
 
@@ -59,7 +55,7 @@ You can simply watch this video which explains step by step what to do!
 
 {% embed url="https://www.youtube.com/watch?v=xUNtr9vY0iU" caption="" %}
 
-That's all! Thanks for using Bloxlink services! &lt;3
+That's all! Thanks for using Bloxlink services! [❤️](https://emojipedia.org/red-heart/)
 
 ### Return to Verification Tutorials
 

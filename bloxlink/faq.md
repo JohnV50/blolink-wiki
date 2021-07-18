@@ -32,10 +32,6 @@ Bloxlink Pro is our premium bot. You can buy this for $6 a month and receive all
 
 Firstly, you can go to our website and click "Premium". This will redirect you to our [donation page](https://blox.link/premium). You may also visit [https://www.patreon.com/bloxlink](https://www.patreon.com/bloxlink). It may take up to 20 minutes for the bot to recognize that you have bought premium, so please be patient after buying it. Make sure to sign in with your Discord account on the website under “My membership” in order to receive the perks.
 
-{% hint style="info" %}
-Not working? Visit our [support center.](https://blox.link/support)
-{% endhint %}
-
 ## Q6\) Why is Bloxlink not changing my nickname?
 
 This is most likely because you are the server owner. This is a thing that Discord made bots unable to, and not Bloxlink. We can’t do anything about it, so you must just name yourself manually.
@@ -49,10 +45,6 @@ Once you have deleted your data, **there is nothing we can do about it**. The pa
 ## Q8\) Bloxlink is not responding. What do I do?
 
 There is a few reasons Bloxlink may not be responding to you. First off, do `@Bloxlink#6871 prefix`. Please remember to ping the bot, and not the Bloxlink role! Sometimes, your prefix might be different so the bot is not responding. If the bot is offline, an update and/or outage could be happening, check our status channel on Discord for more information. Be patient as this is being fixed as soon as possible.
-
-{% hint style="info" %}
-Still experiencing issues? Visit our [support center](https://blox.link/support).
-{% endhint %}
 
 ## Q9\) How do I link my Roblox group?
 
@@ -80,7 +72,7 @@ To setup a nickname for **all users** that verify/join the server, you do `!sett
 Bloxlink Canary is a feature bot, that is updated to test out our new features before they are released on `Bloxlink#6871` or/and `Bloxlink Pro#2989`. You can read more about Bloxlink Canary by reacting to “QA Program Member” in the `get-a-role` channel in our Discord server.
 
 {% hint style="warning" %}
-Bloxlink Canary is for testing. It is not recommended to be used as a main bot, instead, to be used for testing new features. You may test features early with Canary.
+[🧠](https://emojipedia.org/brain/) **Note:** Bloxlink Canary is for testing. It is not recommended to be used as a main bot, instead, to be used for testing new features. You may test features early with Canary.
 {% endhint %}
 
 ## Q12\) Why does Bloxlink Pro keep saying my server is not authorized to use Bloxlink Pro?
@@ -95,7 +87,7 @@ No, you don’t have to do anything over again. Data are synced with the server,
 The same happens if you one day want to cancel your Bloxlink subscription. Things will still be synced to the server, and it will remain the same on the normal Bloxlink.
 
 {% hint style="warning" %}
-Once you cancel your subscription you must re-invite the normal Bloxlink, as Bloxlink Pro is only for active Bloxlink premium/Pro subscribers.
+[🧠](https://emojipedia.org/brain/) **Note:** Once you cancel your subscription you must re-invite the normal Bloxlink, as Bloxlink Pro is only for active Bloxlink premium/Pro subscribers.
 {% endhint %}
 
 ## Q14\) What are magic roles? How do I set them?
@@ -111,7 +103,7 @@ For example if you want to allow someone to run the `!update`/`!verifyall` comma
 **Bloxlink Admin:** This will allow people to be able to run **all** commands with Bloxlink. This is a dangerous role to give people, if you don't trust them. Be careful, cause they will be able to change settings within Bloxlink, delete binds \(linked groups and other binds\), setup the bot again and such administrative permissions.
 
 {% hint style="warning" %}
-Please note that you don't have to set **any** actual permissions for these roles. It's coded in the bot.  
+[🧠](https://emojipedia.org/brain/) **Note:** You don't have to set **any** actual permissions for these roles. It's coded in the bot.  
 Please also make sure that you spell them correct, as if you don't it won't work \(Yes, capitalization also matters!\). **Bloxlink Bypass**, **Bloxlink Updater**, **Bloxlink Admin**.
 {% endhint %}
 
@@ -120,7 +112,7 @@ Please also make sure that you spell them correct, as if you don't it won't work
 If you have a Trello board linked to your server, then the bot will only load up to **100** cards from the board. If you have more than 100 total cards on your board, then the bot might fail to find the Trello cards to remove/modify. So, changing settings in your server will appear to have no effect. It's recommended to use a brand new board for your Bloxlink settings and binds.
 
 {% hint style="danger" %}
-The Trello function has been deprecated. You can not link a Trello board anymore. If you have linked one, it is recommended to switch to the normal settings without Trello!  
+[🚨](https://emojipedia.org/police-car-light/) **Warning**: The Trello function has been deprecated. You can not link a Trello board anymore. If you have linked one, it is recommended to switch to the normal settings without Trello!  
 Having difficulties switching to the normal settings? Visit our [support center](https://blox.link/support).
 {% endhint %}
 
@@ -143,9 +135,7 @@ If you need help logging into the right account on the website, check this:
 
 {% page-ref page="../guides/others/wronglogin.md" %}
 
-{% hint style="info" %}
-Did not find an answer here? Still needing support? Visit our [support center](https://blox.link/support).
-{% endhint %}
+Woops! You did not find an answer here? Reach us at our Support Server, we will answer any question that is not here. [blox.link/support](https://blox.link/support)
 
 ## Return to Bloxlink
 

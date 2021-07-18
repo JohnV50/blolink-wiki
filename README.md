@@ -6,11 +6,11 @@ description: 'Explore Bloxlink''s features, commands and guides.'
 
 ## Welcome! 👋
 
-Welcome to Bloxlink's Wiki. Find information about commands, features, known issues and guide/tutorials to make it easier to setup your server.
-
+Welcome to Bloxlink's Wiki. Find information about commands, features, known issues and guide/tutorials to make it easier to setup your server.  
+  
 We make it easier for you. Thanks for using Bloxlink and going through this Wiki!
 
-Scroll through this main page to know how to use this Wiki and to know about important information. Each page has different buttons to help you with navigation, feel free to use them!
+Scroll through this main page to know how to use this Wiki and to know about  important information. Each page has different buttons to help you with navigation, feel free to use them!
 
 ## Navigation 🛫
 
@@ -27,15 +27,15 @@ Use the search bar on the right top side of your screen. Type a keyword of your 
 ## Wiki Keys 🔑
 
 {% hint style="info" %}
-Tips that are very useful are going to be displayed in a box like this.
+This is an information box. Useful information or tips will be displayed like this.
 {% endhint %}
 
 {% hint style="warning" %}
-Notes of information that you should know are going to be displayed in a box like this.
+This is a warning box! Warnings/information that you need to be aware of will be displayed like this.
 {% endhint %}
 
 {% hint style="danger" %}
-Deprecated or not available commands/features are going to be displayed in a box like this.
+This is a danger box. Mega important information, issues, or restricted/disabled features/commands will be displayed like this.
 {% endhint %}
 
 ## Start Here 📌

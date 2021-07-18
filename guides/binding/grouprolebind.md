@@ -23,7 +23,7 @@ Now, let's set a nickname-template for the users who meet this requirement. If y
 ![](https://dark.hates-this.place/f/HO50WU.png)
 
 {% hint style="warning" %}
-Templates must be spelled like Bloxlink shows you! You must include the curly brackets and dash. For example: `{smart-name}`
+[🧠](https://emojipedia.org/brain/) **Note:** Templates must be spelled like Bloxlink shows you! You must include the curly brackets and dash. For example: `{smart-name}`
 {% endhint %}
 
 The next prompt is an **advanced option**! If you want Bloxlink to remove any additional role\(s\) the user has, if they meet the bind requirements, name those roles! If they are multiple roles, separate them with a comma.
@@ -31,7 +31,7 @@ The next prompt is an **advanced option**! If you want Bloxlink to remove any ad
 ![](https://dark.hates-this.place/f/U9a8VZ.png)
 
 {% hint style="warning" %}
-95% of the time, you should `skip` this option.  
+[🧠](https://emojipedia.org/brain/) **Note:** 95% of the time, you should `skip` this option.  
 Roles that are bound **can not** be removed, they **must** be not bound roles!
 {% endhint %}
 
@@ -63,7 +63,7 @@ You shall **not** remove the `""`.
 
 That's all! You have bound a role to all your group members in one command!
 
-Thanks for using Bloxlink. &lt;3
+Thanks for using Bloxlink. [❤️](https://emojipedia.org/red-heart/)
 
 ### Return to Binding Tutorials
 

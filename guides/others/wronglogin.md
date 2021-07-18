@@ -14,11 +14,7 @@ Once you logged out, click `Sign in with Discord`. Now, before clicking `Authori
 
 ![](https://dark.hates-this.place/f/DVgmQe.png)
 
-You will get redirected to the Discord's login page! Type the email and password of your correct account you wish to login!
-
-{% hint style="info" %}
-You do not know your email or password? Check this guide:
-{% endhint %}
+You will get redirected to the Discord's login page! Type the email and password of your correct account you wish to login! If you do not remember your e-mail or password, check this guide:
 
 {% page-ref page="discord-email-and-password.md" %}
 
@@ -26,12 +22,10 @@ Nice! Now you will get redirected again to the authorization prompt. Make sure n
 
 ![](https://dark.hates-this.place/f/TkqmHo.png)
 
-{% hint style="info" %}
-They are not correct? Follow the guide again.
-{% endhint %}
+It did not change? You might have typed the wrong e-mail. Make sure you're using the e-mail of the account you're using right now!
 
 That's it! You logged into the correct account on the website successfully if you followed the guide correctly!  
-Thanks for using Bloxlink. &lt;3
+Thanks for using Bloxlink. [❤️](https://emojipedia.org/red-heart/)
 
 ## Go back to Other Tutorials
 

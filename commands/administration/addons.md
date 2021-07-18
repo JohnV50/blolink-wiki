@@ -9,7 +9,7 @@ description: Enable/disable a server add-on
 Bloxlink add-ons are optional modules to add, and offered to our Bloxlink Premium subscribers.
 
 {% hint style="danger" %}
-This command is reserved for the Bloxlink Developer as of now.
+[🚨](https://emojipedia.org/police-car-light/) **Warning:** This command is reserved for the Bloxlink Developer as of now.
 {% endhint %}
 
 ## Usage

@@ -16,7 +16,7 @@ Do not worry! Discord has a way to recover your password. When trying to log in,
 ![](https://dark.hates-this.place/f/lJS9Uj.png)
 
 Once you change your password, you can login into your discord account! Yay!  
-Thanks for using Bloxlink. &lt;3
+Thanks for using Bloxlink. [❤️](https://emojipedia.org/red-heart/)
 
 ## Return to Others Guides
 

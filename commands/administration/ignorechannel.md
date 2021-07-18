@@ -19,7 +19,7 @@ description: Toggle commands in the current channel for non-admins.
 
 ## Permissions
 
-**Bloxlink Manager**  
+**Bloxlink Manager**   
 To grant this permission:  
 You need the `Manage Server` role permission.
 

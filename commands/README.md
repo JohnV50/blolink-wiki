@@ -7,7 +7,7 @@ description: >-
 # Commands 🤖
 
 {% hint style="info" %}
-The command prefix is `!` because this is Bloxlink's default prefix. Yours can be different! 😉
+[🧙](https://emojipedia.org/mage/) **Tips:** The command prefix is `!` because this is Bloxlink's default prefix. Yours can be different! 
 {% endhint %}
 
 {% page-ref page="administration/prefix.md" %}

@@ -4,16 +4,7 @@ description: Bloxlink and Wiki changelogs are shown here!
 
 # Changelog 🧪
 
-## 06/27/2021 - Wiki
-
-### Added
-
-* Commands category.
-* Different guides.
-
-### Changed
-
-* Wiki's style. More friendly style.
+You can find changes in our Discord server: [blox.link/support](https://blox.link/support)
 
 ## Go Home
 

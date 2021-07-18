@@ -8,10 +8,16 @@ description: Know about Bloxlink's nickname templates.
 
 To change your nickname template, simply use `!settings change nicknameTemplate <template>`
 
-For example: `!settings change nicknameTemplate {roblox-name}`, `!settings change nicknameTemplate {smart-name}`, `!settings change nicknameTemplate {roblox-name} | {group-rank}`.
+For example: 
+
+```text
+!settings change nicknameTemplate {roblox-name}
+!settings change nicknameTemplate {smart-name}
+!settings change nicknameTemplate {roblox-name} | {group-rank}
+```
 
 {% hint style="info" %}
-Did you know you can combine more than one nickname template? `{group-rank} | {roblox-name}`, for example!
+[🧙](https://emojipedia.org/mage/) **Tips:** Did you know you can combine more than one nickname template? `{group-rank} | {roblox-name}`, for example!
 {% endhint %}
 
 ## Nickname Templates
@@ -39,7 +45,6 @@ Did you know you can combine more than one nickname template? `{group-rank} | {r
 ```text
 {discord-name} -> changes to their Discord display name; works on unverified users
 {discord-nick} -> changes to their Discord nickname; works on unverified users
-{clan-tag} -> replaces with the user's custom clantag, set with !clantag
 ```
 
 ### Templates Commonly used on the WelcomeMessage
@@ -53,21 +58,22 @@ Did you know you can combine more than one nickname template? `{group-rank} | {r
 
 ```text
 {disable-nicknaming} -> overrides all other options and returns a blank nickname. Note that this ONLY APPLIES TO NICKNAMES.
+{clan-tag} -> replaces with the user's custom clantag, set with !clantag
 ```
 
 {% hint style="warning" %}
-Templates must be spelled like Bloxlink shows you! You must include the curly brackets and dash. For example: `{smart-name}`
+[🧠](https://emojipedia.org/brain/) **Note:** Templates must be spelled like Bloxlink shows you! You must include the curly brackets and dash. For example: `{smart-name}`
 {% endhint %}
 
 {% hint style="info" %}
-**Bind Nickname** → when you link groups, you're given the option to change nicknames of group members. Bloxlink will choose the person's **highest role** which has an available Bind Nickname. Bind Nicknames can be applied from `!bind`. If no bind nicknames apply to the user, then the **Global Nickname** is used instead.
+[🧙](https://emojipedia.org/mage/) **Tips:** **Bind Nickname** → when you link groups, you're given the option to change nicknames of group members. Bloxlink will choose the person's **highest role** which has an available Bind Nickname. Bind Nicknames can be applied from `!bind`. If no bind nicknames apply to the user, then the **Global Nickname** is used instead.
 
 **Global Nickname** → the default nickname used if someone has **NO** available Bind Nicknames. This can be applied from this command and `!settings change` \(look for "NicknameTemplate"\).
 {% endhint %}
 
 That's all! You have changed/edited your nickname template.
 
-Thanks for using Bloxlink. &lt;3
+Thanks for using Bloxlink. [❤️](https://emojipedia.org/red-heart/)
 
 ### Return to Verification Tutorials
 
