@@ -6,8 +6,6 @@ description: View information about Bloxlink.
 
 ## Usage
 
-
-
 ```text
 !help [command_name]
 ```
