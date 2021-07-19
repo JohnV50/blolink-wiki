@@ -21,8 +21,8 @@ description: Bind a discord role to non-group members.
 
 ## Permissions
 
-**Bloxlink Manager**  
-To grant this permission:  
+**Bloxlink Manager**   
+To grant this permission:   
 You need the `Manage Server` role permission.
 
 ### Return to Category

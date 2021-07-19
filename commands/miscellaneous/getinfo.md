@@ -28,7 +28,7 @@ description: Retrieve the Roblox information for a member.
 ```
 
 {% hint style="info" %}
-This command supports flags. Available flags are:  
+This command supports flags. Available flags are:   
 `username`, `id`, `avatar`, `premium`, `badges`, `groups`, `description`, `age`, `banned`, `devforum`.
 {% endhint %}
 

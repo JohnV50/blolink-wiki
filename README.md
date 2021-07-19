@@ -31,7 +31,7 @@ Use the search bar on the right top side of your screen. Type a keyword of your 
 {% endhint %}
 
 {% hint style="warning" %}
-[🧠](https://emojipedia.org/brain/) Notes for information that you should know are going to be displayed in a box like this.
+[🧠](https://emojipedia.org/brain/) Notes of information that you should know are going to be displayed in a box like this.
 {% endhint %}
 
 {% hint style="danger" %}

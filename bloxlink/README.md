@@ -9,13 +9,13 @@ description: >-
 
 ## Questions? Check our FAQ 📜
 
-Check our Frequently Asked Questions sections. Find answers to commonly asked questions by Bloxlink users.
+Check our Frequently Asked Questions section. Find answers to commonly asked questions by Bloxlink users.
 
 {% page-ref page="faq.md" %}
 
 ## What's new? Check our changelog 🧪
 
-We love making changes to improve! Do you want to know what's new? Check our changelog section to know about Bloxlink and Wiki changes.
+We love making changes to improve! Do you want to know what's new? Check our changelog section to know about Bloxlink changes.
 
 {% page-ref page="changelog.md" %}
 
@@ -27,7 +27,7 @@ Do you want to learn more about all Bloxlink's command? This is your section! Ch
 
 ## Looking for guides? 📋
 
-We love helping you! Go trough the guides section to know how to use Bloxlink better and make your server awesome.
+We love helping you! Go through the guides section to know how to use Bloxlink better and make your server awesome.
 
 {% page-ref page="../guides/" %}
 
