@@ -9,7 +9,7 @@ description: >-
 
 ## Questions? Check our FAQ 📜
 
-Check our Frequently Asked Questions sections. Find answers to commonly asked questions by Bloxlink users.
+Check our Frequently Asked Questions section. Find answers to commonly asked questions by Bloxlink users.
 
 {% page-ref page="faq.md" %}
 
@@ -27,7 +27,7 @@ Do you want to learn more about all Bloxlink's command? This is your section! Ch
 
 ## Looking for guides? 📋
 
-We love helping you! Go trough the guides section to know how to use Bloxlink better and make your server awesome.
+We love helping you! Go through the guides section to know how to use Bloxlink better and make your server awesome.
 
 {% page-ref page="../guides/" %}
 
