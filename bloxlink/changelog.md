@@ -8,5 +8,9 @@ You can find changes in our Discord server: [blox.link/support](https://blox.lin
 
 ## Go Home
 
+{% page-ref page="../" %}
+
+### Return to Bloxlink
+
 {% page-ref page="./" %}
 

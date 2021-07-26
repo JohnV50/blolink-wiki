@@ -1,7 +1,5 @@
 ---
-description: >-
-  Looking to give your users a role related to their rank? This is the correct
-  guide!
+description: Give users a Discord role based off their Roblox group rank.
 ---
 
 # Rank Bind 📏

@@ -1,7 +1,5 @@
 ---
-description: >-
-  Do you wish your group members get a cool role if they're in your group?
-  Follow this guide!
+description: Give all your group members a Discord role.
 ---
 
 # Group Role Bind 🧱

@@ -1,5 +1,5 @@
 ---
-description: Do you wish to link your group or link a new group? This is the guide!
+description: Link a new group to Bloxlink.
 ---
 
 # Group Bind ⚖️
