@@ -51,6 +51,7 @@
     * [Rank Bind 📏](guides/binding/rankbind.md)
     * [Group Bind ⚖️](guides/binding/groupbind.md)
     * [Group Role Bind 🧱](guides/binding/grouprolebind.md)
+    * [Asset Bind 🧰](guides/binding/assetbind.md)
   * [Verification 🔌](guides/verification/README.md)
     * [How to verify 🔗](guides/verification/verify.md)
     * [How to unlink an account ✂️](guides/verification/verifyunlink.md)

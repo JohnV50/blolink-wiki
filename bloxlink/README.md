@@ -31,7 +31,7 @@ We love helping you! Go through the guides section to know how to use Bloxlink b
 
 {% page-ref page="../guides/" %}
 
-## Go Home
+## Return to Front Page
 
 {% page-ref page="../" %}
 

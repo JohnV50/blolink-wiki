@@ -137,11 +137,7 @@ If you need help logging into the right account on the website, check this:
 
 Woops! You did not find an answer here? Reach us at our Support Server, we will answer any question that is not here. [blox.link/support](https://blox.link/support)
 
-## Return to Bloxlink
-
-{% page-ref page="./" %}
-
 ## Go Home
 
-{% page-ref page="../" %}
+{% page-ref page="./" %}
 
