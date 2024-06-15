@@ -6,9 +6,9 @@
   * [Changelog 🧪](bloxlink/changelog.md)
 * [Commands 🤖](commands/README.md)
   * [Administration 💻](commands/administration/README.md)
-    * [!addons](commands/administration/addons.md)
-    * [!grouplock](commands/administration/grouplock.md)
-    * [!setup](commands/administration/setup.md)
+    * [addons](commands/administration/addons.md)
+    * [grouplock](commands/administration/grouplock.md)
+    * [setup](commands/administration/setup.md)
     * [!logchannel](commands/administration/logchannel.md)
     * [!prefix](commands/administration/prefix.md)
     * [!reversesearch](commands/administration/reversesearch.md)
@@ -61,4 +61,3 @@
     * [Wrong Login 🚫](guides/others/wronglogin.md)
     * [Discord email & password 🔐](guides/others/discord-email-and-password.md)
     * [How to setup Bloxlink 🔨](guides/others/setup.md)
-
