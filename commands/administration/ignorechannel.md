@@ -2,28 +2,26 @@
 description: Toggle commands in the current channel for non-admins.
 ---
 
-# !ignorechannel
+# /ignorechannel toogle
 
 ## Usage
 
-```text
-!ignorechannel
+```
+/ignorechannel
 ```
 
-## Aliases
+## Alias
 
-```text
-!ignore
-!ignore-channel
-```
+&#x20;/ignorechannel view
 
 ## Permissions
 
-**Bloxlink Manager**   
-To grant this permission:  
+**Bloxlink Manager**\
+To grant this permission:\
 You need the `Manage Server` role permission.
 
 ### Return to Category
 
-{% page-ref page="./" %}
-
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}

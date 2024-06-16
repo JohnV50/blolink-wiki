@@ -1,23 +1,19 @@
 ---
-description: View your Bloxlink premium status.
+description: View your Bloxlink premium server status.
 ---
 
-# !status
+# /status server
 
 ## Usage
 
-```text
-!status
+```
+/status server
 ```
 
 ## Examples
 
-```text
-!status @justin
-!status 84117866944663552
-```
-
 ### Return to Category
 
-{% page-ref page="./" %}
-
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}

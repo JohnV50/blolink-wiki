@@ -2,8 +2,8 @@
 
 ## Miscellaneous Category
 
-{% content-ref url="robloxsearch.md" %}
-[robloxsearch.md](robloxsearch.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="invite.md" %}
@@ -14,8 +14,8 @@
 [donate.md](donate.md)
 {% endcontent-ref %}
 
-{% content-ref url="commands.md" %}
-[commands.md](commands.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="help.md" %}

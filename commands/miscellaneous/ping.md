@@ -2,15 +2,16 @@
 description: Measure the latency between the bot and Discord.
 ---
 
-# !ping
+# /ping
 
 ## Usage
 
-```text
-!ping
+```
+/ping
 ```
 
 ### Return to Category
 
-{% page-ref page="./" %}
-
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}

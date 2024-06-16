@@ -2,21 +2,16 @@
 description: Learn how to receive Bloxlink Premium
 ---
 
-# !donate
+# /donate
 
 ## Usage
 
-```text
-!donate
 ```
-
-## Aliases
-
-```text
-!premium
+/donate
 ```
 
 ### Return to Category
 
-{% page-ref page="./" %}
-
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}

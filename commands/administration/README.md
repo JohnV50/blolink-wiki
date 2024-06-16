@@ -2,8 +2,8 @@
 
 ## Administration Category
 
-{% content-ref url="addons.md" %}
-[addons.md](addons.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="grouplock.md" %}
@@ -14,20 +14,20 @@
 [setup.md](setup.md)
 {% endcontent-ref %}
 
-{% content-ref url="logchannel.md" %}
-[logchannel.md](logchannel.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="prefix.md" %}
-[prefix.md](prefix.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="reversesearch.md" %}
 [reversesearch.md](reversesearch.md)
 {% endcontent-ref %}
 
-{% content-ref url="disable.md" %}
-[disable.md](disable.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="ignorechannel.md" %}

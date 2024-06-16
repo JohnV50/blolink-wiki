@@ -2,12 +2,13 @@
 description: Force update user(s) with roles and nicknames.
 ---
 
-# /update
+# /updateuser
 
 ## Usage
 
 ```
-/updateuser [users]
+/update [users]
+/update [role]
 ```
 
 

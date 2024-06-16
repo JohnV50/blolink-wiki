@@ -2,17 +2,16 @@
 description: Invite the bot to your server.
 ---
 
-# !invite
+# /invite
 
 ## Usage
 
-```text
-!invite
+```
+/invite
 ```
 
 ### Return to Category
 
-{% page-ref page="./" %}
-
-
-
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}

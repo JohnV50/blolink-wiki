@@ -10,12 +10,6 @@ description: Set-up your server with Bloxlink.
 /setup
 ```
 
-## Aliases
-
-```
-/setup
-```
-
 ## Permissions
 
 **Bloxlink Manager**\

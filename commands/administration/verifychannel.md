@@ -2,28 +2,22 @@
 description: Create a special channel where messages are deleted.
 ---
 
-# !verifychannel
+# /verifychannel
 
 ## Usage
 
-```text
-!verifychannel
 ```
-
-## Aliases
-
-```text
-!verificationchannel
-!verify-channel
+/verifychannel
 ```
 
 ## Permissions
 
-**Bloxlink Manager**  
-To grant this permission:  
+**Bloxlink Manager**\
+To grant this permission:\
 You need the `Manage Server` role permission.
 
 ### Return to Category
 
-{% page-ref page="./" %}
-
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}

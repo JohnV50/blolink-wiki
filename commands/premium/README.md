@@ -6,20 +6,20 @@
 [status.md](status.md)
 {% endcontent-ref %}
 
-{% content-ref url="data.md" %}
-[data.md](data.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="whitelabel.md" %}
-[whitelabel.md](whitelabel.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="transfer.md" %}
-[transfer.md](transfer.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="transfer.md" %}
-[transfer.md](transfer.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="banevaders.md" %}

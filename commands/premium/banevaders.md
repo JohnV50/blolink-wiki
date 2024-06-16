@@ -2,32 +2,25 @@
 description: Scan your server for ban-evaders.
 ---
 
-# !banevaders
+# /banevaders
 
 ## Usage
 
-```text
-!banevaders <action>
 ```
-
-## Aliases
-
-```text
-!bansearch
-!ban-search
-!ban-evaders
+/banevaders <action>
 ```
 
 ## Permissions
 
-**Premium Command**  
+**Premium Command**\
 This command can only be used by Bloxlink Premium members.
 
- **Bloxlink Moderator**   
-To grant this permission:   
+**Bloxlink Moderator**\
+To grant this permission:\
 You need the `Kick Members` or `Ban Members` role permission.
 
 ### Return to Category
 
-{% page-ref page="./" %}
-
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}

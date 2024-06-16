@@ -2,22 +2,16 @@
 description: View your server bound roles.
 ---
 
-# !viewbinds
+# /viewbinds
 
 ## Usage
 
-```text
-!viewbinds
 ```
-
-## Aliases
-
-```text
-!binds
-!view-binds
+/viewbinds
 ```
 
 ### Return to Category
 
-{% page-ref page="./" %}
-
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}

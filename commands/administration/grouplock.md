@@ -10,11 +10,8 @@ description: Lock your server to group members only.
 /grouplock add <choice>
 ```
 
-## Aliases
-
 ```
-/grouplock list
-/grouplock remove
+/grouplock delete
 /grouplock view
 
 ```

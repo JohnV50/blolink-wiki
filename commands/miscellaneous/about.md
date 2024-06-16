@@ -2,21 +2,16 @@
 description: Learn about Bloxlink!
 ---
 
-# !about
+# /about
 
 ## Usage
 
-```text
-!about
 ```
-
-## Aliases
-
-```text
-!bloxlink
+/about
 ```
 
 ### Return to Category
 
-{% page-ref page="./" %}
-
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}

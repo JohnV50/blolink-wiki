@@ -2,17 +2,16 @@
 description: View information about Bloxlink.
 ---
 
-# !help
+# /help
 
 ## Usage
 
-
-
-```text
-!help [command_name]
+```
+/help [command_name]
 ```
 
 ### Return to Category
 
-{% page-ref page="./" %}
-
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}

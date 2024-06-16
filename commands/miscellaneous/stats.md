@@ -2,22 +2,16 @@
 description: View the current stats of Bloxlink.
 ---
 
-# !stats
+# /stats
 
 ## Usage
 
-```text
-!stats
 ```
-
-## Aliases
-
-```text
-!statics
-!nerdinfo
+/stats
 ```
 
 ### Return to Category
 
-{% page-ref page="./" %}
-
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}

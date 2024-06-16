@@ -10,8 +10,8 @@ description: >-
 [🧙](https://emojipedia.org/mage/) **Tips:** The command prefix is `!` because this is Bloxlink's default prefix. Yours can be different!
 {% endhint %}
 
-{% content-ref url="administration/prefix.md" %}
-[prefix.md](administration/prefix.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Commands Categories
