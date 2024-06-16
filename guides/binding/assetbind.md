@@ -10,7 +10,7 @@ An Asset Bind is used to give a Discord role based off a Roblox asset. For examp
 
 ## Normal Usage
 
-Make sure Bloxlink is able to view and type in the channel. Now say `!bind` and let's follow the prompts together.
+Make sure Bloxlink is able to view and type in the channel. Now say `/bind` and let's follow the prompts together.
 
 Bloxlink offers different bind types, but we will use the `Asset` bind type. Use the dropdown or simply type it.
 
@@ -35,18 +35,6 @@ Provide the Discord role name(s) users should get if they meet the bind requirem
 ![](https://dark.hates-this.place/f/r13MqC.png)
 
 That's it! You're going to see the asset ID and the bound Discord role on the success message.
-
-![](https://dark.hates-this.place/f/krQptA.png)
-
-## Advanced Usage
-
-You are actually able to make an entire asset bind just in 1 command. The `<>` and keywords are just to demonstrate, so **remove** them and replace with what you'd like.
-
-You shall **not** remove the `""`.
-
-`!bind asset "<nicknameTemplate>" "<removeRoles>" <assetID> "<addRoles>"`
-
-That's all! You have bound a role with an asset in one command!
 
 Thanks for using Bloxlink. [❤️](https://emojipedia.org/red-heart/)
 

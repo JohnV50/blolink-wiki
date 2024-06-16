@@ -6,15 +6,9 @@ description: Know about Bloxlink's nickname templates.
 
 ## Changing your nickname template
 
-To change your nickname template, simply use `!settings change nicknameTemplate <template>`
+_**Option one:**_ To setup a nickname for **all users** that verify/join the server, you can run `/setup`. This will then create a prompt that will allow you to setup the nickname template, from the dropdown menu select which nickname template you would like to use. A common one to use is `{smart-name}`, this will name people their Roblox name (and their Display name, if they have any).  After selecting you may click the `skip, leave unchanged button` to skip through the rest of the prompts. Once completed select done, and then your settings will be saved for your nickname template.
 
-For example:
-
-```
-!settings change nicknameTemplate {roblox-name}
-!settings change nicknameTemplate {smart-name}
-!settings change nicknameTemplate {roblox-name} | {group-rank}
-```
+_**Option Two:**_ The second way to setup the nickname template for _**all users**_ that verify/join the server. Navigate to the [Dashboard](https://blox.link/dashboard) and ensure you are signed into the correct account, once you ensure you are signed into the correct account click `manage servers` on the left side of your screen from the selection menu. You will then be taken to a list of your servers that you own or can manage, click on your server then select the `verification` tab, you will then be greeted with many options, choose the nickname template that you would like to apply to your server, then select save. Now your template has been saved!
 
 {% hint style="info" %}
 [🧙](https://emojipedia.org/mage/) **Tips:** Did you know you can combine more than one nickname template? `{group-rank} | {roblox-name}`, for example!
@@ -66,9 +60,9 @@ For example:
 {% endhint %}
 
 {% hint style="info" %}
-[🧙](https://emojipedia.org/mage/) **Tips:** **Bind Nickname** → when you link groups, you're given the option to change nicknames of group members. Bloxlink will choose the person's **highest role** which has an available Bind Nickname. Bind Nicknames can be applied from `!bind`. If no bind nicknames apply to the user, then the **Global Nickname** is used instead.
+[🧙](https://emojipedia.org/mage/) **Tips:** **Bind Nickname** → when you link groups, you're given the option to change nicknames of group members. Bloxlink will choose the person's **highest role** which has an available Bind Nickname. Bind Nicknames can be applied from /`bind`. If no bind nicknames apply to the user, then the **Global Nickname** is used instead.
 
-**Global Nickname** → the default nickname used if someone has **NO** available Bind Nicknames. This can be applied from this command and `!settings change` (look for "NicknameTemplate").
+**Global Nickname** → the default nickname used if someone has **NO** available Bind Nicknames. This can be applied from this command and `/settings` (look for "NicknameTemplate").
 {% endhint %}
 
 That's all! You have changed/edited your nickname template.
