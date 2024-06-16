@@ -67,15 +67,49 @@ If you have already ran a setup, you can use the command called `!bind` instead;
 
 `4` Finally, say your group ID. After that say `entire group`. _(If you have difficulties in finding the group ID, just take the numbers (from the URL) just before the group name. Or you can just take the entire URL)._
 
-## Q10) How do I setup a nickname template?
+## Q10) How do I set up a nickname template?
 
-_**Option one:**_ To setup a nickname for **all users** that verify/join the server, you can run `/setup`. This will then create a prompt that will allow you to setup the nickname template, from the dropdown menu select which nickname template you would like to use. A common one to use is `{smart-name}`, this will name people their Roblox name (and their Display name, if they have any).  After selecting you may click the `skip, leave unchanged button` to skip through the rest of the prompts. Once completed select done, and then your settings will be saved for your nickname template.
-
-_**Option Two:**_ The second way to setup the nickname template for _**all users**_ that verify/join the server. Navigate to the [Dashboard](https://blox.link/dashboard) and ensure you are signed into the correct account, once you ensure you are signed into the correct account click `manage servers` on the left side of your screen from the selection menu. You will then be taken to a list of your servers that you own or can manage, click on your server then select the `verification` tab, you will then be greeted with many options, choose the nickname template that you would like to apply to your server, then select save. Now your template has been saved!
+There are two ways to set up a nickname template. Choose your preferred method below!
 
 {% hint style="warning" %}
-To set the nickname template you need `manage server` permissions enabled for the intended server.
+To set a nickname template, you need to have the `manage server` permission enabled for the intended server.
 {% endhint %}
+
+
+
+**Using the Bloxlink Dashboard:** \
+The quickest way to set a nickname template for _**all users**_ who verify/join your server is to use the [Dashboard](https://blox.link/dashboard). Once on the dashboard and logged in, select your server under the `Manage Servers` tab. Next, click the `Verification` tab. Under `Default Nickname Template`, choose the nickname template that you would like to apply to your server, then click save.
+
+{% hint style="info" %}
+**Here is a brief explanation of each template and its purpose. We highly recommend using {smart-name} as it is the most used template!**\
+
+
+{smart-name} → changes to: display name (@username) if the user has a display name; otherwise, changes to their Roblox username
+
+{roblox-name} → changes to their Roblox Username
+
+{display-name} → changes to their Roblox Display Name
+
+{roblox-id} → changes to their Roblox user ID&#x20;
+
+{roblox-age} → changes to their Roblox user age in days&#x20;
+
+{roblox-join-date} → changes to their Roblox join date&#x20;
+
+{group-rank} → changes to their group rank&#x20;
+
+{group-rank-ID} → changes to their group rank in a group with ID&#x20;
+
+{discord-name} → changes to their Discord display name; works on unverified users {discord-nick} → changes to their Discord nickname; works on unverified users&#x20;
+
+{server-name} → changes to the server name; works on unverified users&#x20;
+
+{clan-tag} → replaceable text that the user can set
+{% endhint %}
+
+\
+**Using the Bloxlink Bot:**\
+To set a nickname template for _**all users**_ that verify/join the server, you can run `/setup`. Under the prompt, select `next`. You should see a list of all available nickname templates for you to choose from. Once you find your preferred template, select the `Type Response` button and type in your template. You also have the option to select `Disable` if you don't want Bloxlink to change a user's nickname. Proceed with the prompt until the end by selecting `skip` to leave all other settings unchanged.
 
 {% content-ref url="../commands/administration/setup.md" %}
 [setup.md](../commands/administration/setup.md)
