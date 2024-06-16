@@ -6,7 +6,7 @@ description: Questions or concerns? Check if it is already answered here!
 
 ## Q1) How do I verify?
 
-The first step to verifying is running `!verify` in any server. Bloxlink will send you a link to our website and you can verify from there. If you're having any issues, we do have a guide to help you:
+The first step to verifying is running /`verify` in any server. Bloxlink will send you a link to our website and you can verify from there. If you're having any issues, we do have a guide to help you:
 
 {% content-ref url="../guides/verification/verify.md" %}
 [verify.md](../guides/verification/verify.md)
@@ -22,11 +22,13 @@ For beginners, you start your path at Bloxlink in the Trial Helper position. Tri
 
 You are also able to join Trial Helpers by filling out this **”Staff Application”** which focuses more on showing your vast knowledge of Bloxlink. ([https://forms.gle/CHLEZo6C9HfxXKxn6](https://forms.gle/CHLEZo6C9HfxXKxn6)).
 
-In order to become a Helper, you must’ve been active in our server during your time as a Trial Helper. You must also have shown us that you provide correct support and follow our rules.
+To become a Helper, you must be relatively active in our support server during your time as a Trial Helper. You must also provide accurate support and show you're knowledgeable on Bloxlink.
 
 ## Q4) What is Bloxlink Pro?
 
-Bloxlink Pro is our premium bot. You can buy this for $6 a month and receive all of our features of premium. If you use `!help`, you can see what the faster and more reliable premium bot offers under the **Premium** section. You can also check it here:
+Bloxlink Pro is a premium bot offered to our Bloxlink Pro Subscribers. Since there are fewer users on it, it is relatively faster and more stable. Plus, the Pro bot receives updates before everyone else and includes Basic premium benefits! \
+\
+You can check out our Basic & Pro subscriptions on the website under "Pricing" or click the link below:
 
 {% content-ref url="../commands/premium/" %}
 [premium](../commands/premium/)
