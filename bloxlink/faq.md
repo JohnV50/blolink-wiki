@@ -20,39 +20,40 @@ The website can be found by going into a browser and typing `blox.link` in your 
 
 For beginners, you start your path at Bloxlink in the Trial Helper position. Trial Helpers are chosen by our staff team when we see someone actively giving accurate support, and you may be invited to the team.
 
-You are also able to join Trial Helpers by filling out this **”Staff Application”** which focuses more on showing your vast knowledge of Bloxlink. ([https://forms.gle/CHLEZo6C9HfxXKxn6](https://forms.gle/CHLEZo6C9HfxXKxn6)).
+You can also join Trial Helpers by filling out this application:\
+[https://forms.gle/CHLEZo6C9HfxXKxn6](https://forms.gle/CHLEZo6C9HfxXKxn6)
 
-To become a Helper, you must be relatively active in our support server during your time as a Trial Helper. You must also provide accurate support and show you're knowledgeable on Bloxlink.
+To become a Helper, start by sending filling out the application. If selected by our team, you'll be given a chance to show your Bloxlink knowledge as a Trial Helper. After some time reviewing your performance and support accuracy, you could be brought on as a full-on helper!
 
-## Q4) What is Bloxlink Pro?
+## Q4) What are Basic Premium and Bloxlink Pro?
 
-Bloxlink Pro is a premium bot offered to our Bloxlink Pro Subscribers. Since there are fewer users on it, it is relatively faster and more stable. Plus, the Pro bot receives updates before everyone else and includes Basic premium benefits! \
+For Bloxlink to remain a free service for everyone, we greatly appreciate donations and premium subscriptions to help us cover operating costs. We offer two subscriptions with sweet benefits:\
 \
-You can check out our Basic & Pro subscriptions on the website under "Pricing" or click the link below:
+You can purchase Basic Premium for a monthly cost of $5.99. This includes exclusive commands, lower cooldowns, and much more that help keep your server running smoothly. \
+\
+We also offer Bloxlink Pro for a monthly cost of $9.99. This includes all benefits under Basic Premium and access to Bloxlink Pro. This is an exclusive bot that is more reliable and stable. It also receives all updates before anyone else. \
+\
+Run the command `/donate` or you can click the link below to learn more about what benefits our premium subscriptions provide under the **Premium** section.
 
 {% content-ref url="../commands/premium/" %}
 [premium](../commands/premium/)
 {% endcontent-ref %}
 
-## Q5) How do I donate?
-
-Firstly, you can go to our website and click "Premium". This will redirect you to our [donation page](https://blox.link/premium). You may also visit [https://www.patreon.com/bloxlink](https://www.patreon.com/bloxlink). It may take up to 20 minutes for the bot to recognize that you have bought premium, so please be patient after buying it. Make sure to sign in with your Discord account on the website under “My membership” in order to receive the perks.
-
-## Q6) Why is Bloxlink not changing my nickname?
+## Q5) Why is Bloxlink not changing my nickname?
 
 This is most likely because you are the server owner. This is a thing that Discord made bots unable to, and not Bloxlink. We can’t do anything about it, so you must just name yourself manually.
 
 In case you are not the server owner, then it might have something to do with Bloxlink’s permissions. Firstly, make sure to drag the bot to the top of the roles you want it to change nicknames on. If it still doesn’t change your nickname, ensure Bloxlink has the `Manage Nicknames` permission.
 
-## Q7) I deleted my data! How do I get it back?
+## Q6) I deleted my data! How do I get it back?
 
 Once you have deleted your data, **there is nothing we can do about it**. The page **warns** you multiple times and even asks for confirmation before you delete your data. This is not our fault as you were warned about this and we can not do anything to fix it. You **must** wait 2 days before being able to verify again.
 
-## Q8) Bloxlink is not responding. What do I do?
+## Q7) Bloxlink is not responding. What do I do?
 
 There is a few reasons Bloxlink may not be responding to you. First off, do `@Bloxlink#6871 prefix`. Please remember to ping the bot, and not the Bloxlink role! Sometimes, your prefix might be different so the bot is not responding. If the bot is offline, an update and/or outage could be happening, check our status channel on Discord for more information. Be patient as this is being fixed as soon as possible.
 
-## Q9) How do I link my Roblox group?
+## Q8) How do I link my Roblox group?
 
 If you have administrative permission in a server, you may run `!setup` and follow the prompts in Direct Messages.\
 If you have difficulties in finding the group ID, just take the numbers (from the URL) just before the group name _or you can just take the entire URL._
@@ -67,7 +68,7 @@ If you have already ran a setup, you can use the command called `!bind` instead;
 
 `4` Finally, say your group ID. After that say `entire group`. _(If you have difficulties in finding the group ID, just take the numbers (from the URL) just before the group name. Or you can just take the entire URL)._
 
-## Q10) How do I set up a nickname template?
+## Q9) How do I set up a nickname template?
 
 There are two ways to set up a nickname template. Choose your preferred method below!
 
@@ -115,7 +116,7 @@ To set a nickname template for _**all users**_ that verify/join the server, you 
 [setup.md](../commands/administration/setup.md)
 {% endcontent-ref %}
 
-## Q11) What is Bloxlink Canary? How do I use it?
+## Q10) What is Bloxlink Canary? How do I use it?
 
 Bloxlink Canary is a feature bot, that is updated to test out our new features before they are released on `Bloxlink#6871` or/and `Bloxlink Pro#2989`. You can read more about Bloxlink Canary by reacting to “QA Program Member” in the `get-a-role` channel in our Discord server.
 
@@ -123,13 +124,13 @@ Bloxlink Canary is a feature bot, that is updated to test out our new features b
 [🧠](https://emojipedia.org/brain/) **Note:** Bloxlink Canary is for testing. It is not recommended to be used as a main bot, instead, to be used for testing new features. You may test features early with Canary.
 {% endhint %}
 
-## Q12) Why does Bloxlink Pro keep saying my server is not authorized to use Bloxlink Pro?
+## Q11) Why does Bloxlink Pro keep saying my server is not authorized to use Bloxlink Pro?
 
 This can be because the **server owner** doesn’t have a Bloxlink subscription license. You will only be able to use premium/pro in the server if the server owner owns a Bloxlink subscription. If you wish to transfer this license to a friend that owns a server where you’d like to use the features of premium/pro, then you can transfer your license temporarily by saying `!transfer @serverOwner`. You can always get the license back if you regret that you’ve loaned them the license by saying `!transfer disable`.
 
 This might also be due to you not actually having the Pro license. If you bought Bloxlink Premium Lifetime once it was available, then that’s why. Bloxlink Premium and Bloxlink Pro **is not** the same. Bloxlink Premium gives you access to the commands under “Premium” displayed in `!help`. Bloxlink Pro means you have the ability to invite `Bloxlink Pro#2989` to your server. You can check your Bloxlink subscription license by saying `!status`.
 
-## Q13) I bought Bloxlink Pro! Do I have to redo all my binds and setup?
+## Q12) I bought Bloxlink Pro! Do I have to redo all my binds and setup?
 
 No, you don’t have to do anything over again. Data are synced with the server, which means settings, binds, prefix and everything else will remain the same as before if you decide to invite Bloxlink Pro to your server.\
 The same happens if you one day want to cancel your Bloxlink subscription. Things will still be synced to the server, and it will remain the same on the normal Bloxlink.
@@ -138,7 +139,7 @@ The same happens if you one day want to cancel your Bloxlink subscription. Thing
 [🧠](https://emojipedia.org/brain/) **Note:** Once you cancel your subscription you must re-invite the normal Bloxlink, as Bloxlink Pro is only for active Bloxlink premium/Pro subscribers.
 {% endhint %}
 
-## Q14) What are magic roles? How do I set them?
+## Q13) What are magic roles? How do I set them?
 
 Magic roles are roles that will allow you to do administrative things ONLY within Bloxlink!
 
@@ -155,7 +156,7 @@ For example if you want to allow someone to run the `!update`/`!verifyall` comma
 Please also make sure that you spell them correct, as if you don't it won't work (Yes, capitalization also matters!). **Bloxlink Bypass**, **Bloxlink Updater**, **Bloxlink Admin**.
 {% endhint %}
 
-## Q15) I have modified my settings/binds but it did not take effect!
+## Q14) I have modified my settings/binds but it did not take effect!
 
 If you have a Trello board linked to your server, then the bot will only load up to **100** cards from the board. If you have more than 100 total cards on your board, then the bot might fail to find the Trello cards to remove/modify. So, changing settings in your server will appear to have no effect. It's recommended to use a brand new board for your Bloxlink settings and binds.
 
@@ -164,16 +165,16 @@ If you have a Trello board linked to your server, then the bot will only load up
 Having difficulties switching to the normal settings? Visit our [support center](https://blox.link/support).
 {% endhint %}
 
-## Q16) People are not getting their roles!
+## Q15) People are not getting their roles!
 
 If you have Membership Screening enabled in your Server Settings, then Bloxlink will wait until **after** the user accepts the rules before giving them their roles. This is because giving roles makes a user bypass the Membership Screening, so Bloxlink will always wait until after the user accepts the rules.\
 If you don't have Membership Screening enabled, then most likely the bot **is** giving them their roles, but your Discord client isn't showing it. This is a problem with Discord, not the bot, the role is in fact being given to the person. You can double-check by looking at the audit log.
 
-## Q17) I see no servers/wrong servers when I try to verify!
+## Q16) I see no servers/wrong servers when I try to verify!
 
 You're logged on the wrong account on the website. Go to [https://discord.com/](https://discord.com/), log out, and log back in with your correct account. Then go back to the Bloxlink website and sign in.
 
-## Q18) I verified on the website but Bloxlink says I didn't!
+## Q17) I verified on the website but Bloxlink says I didn't!
 
 If your verification was successful on the website, but Bloxlink says you're not, most likely you're logged into the wrong Discord account **on the website**.
 
