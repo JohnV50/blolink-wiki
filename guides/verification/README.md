@@ -2,15 +2,24 @@
 
 ## Tutorials Related to Verification
 
-{% page-ref page="verify.md" %}
+{% content-ref url="verify.md" %}
+[verify.md](verify.md)
+{% endcontent-ref %}
 
-{% page-ref page="verifyunlink.md" %}
+{% content-ref url="verifyunlink.md" %}
+[verifyunlink.md](verifyunlink.md)
+{% endcontent-ref %}
 
-{% page-ref page="verifyadd.md" %}
+{% content-ref url="verifyadd.md" %}
+[verifyadd.md](verifyadd.md)
+{% endcontent-ref %}
 
-{% page-ref page="nicknametemplates.md" %}
+{% content-ref url="nicknametemplates.md" %}
+[nicknametemplates.md](nicknametemplates.md)
+{% endcontent-ref %}
 
-## Return to all Guides
+### Return to all Guides
 
-{% page-ref page="../" %}
-
+{% content-ref url="../" %}
+[..](../)
+{% endcontent-ref %}

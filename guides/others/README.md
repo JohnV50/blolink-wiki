@@ -2,13 +2,20 @@
 
 ## Other Useful Tutorials
 
-{% page-ref page="wronglogin.md" %}
+{% content-ref url="wronglogin.md" %}
+[wronglogin.md](wronglogin.md)
+{% endcontent-ref %}
 
-{% page-ref page="discord-email-and-password.md" %}
+{% content-ref url="discord-email-and-password.md" %}
+[discord-email-and-password.md](discord-email-and-password.md)
+{% endcontent-ref %}
 
-{% page-ref page="setup.md" %}
+{% content-ref url="setup.md" %}
+[setup.md](setup.md)
+{% endcontent-ref %}
 
-## Return to all Guides
+### Return to all Guides
 
-{% page-ref page="../" %}
-
+{% content-ref url="../" %}
+[..](../)
+{% endcontent-ref %}

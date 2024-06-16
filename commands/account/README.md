@@ -2,15 +2,24 @@
 
 ## Account Category
 
-{% page-ref page="profile.md" %}
+{% content-ref url="profile.md" %}
+[profile.md](profile.md)
+{% endcontent-ref %}
 
-{% page-ref page="getrole.md" %}
+{% content-ref url="getrole.md" %}
+[getrole.md](getrole.md)
+{% endcontent-ref %}
 
-{% page-ref page="switchuser.md" %}
+{% content-ref url="switchuser.md" %}
+[switchuser.md](switchuser.md)
+{% endcontent-ref %}
 
-{% page-ref page="verify.md" %}
+{% content-ref url="verify.md" %}
+[verify.md](verify.md)
+{% endcontent-ref %}
 
-## Return to Categories
+### Return to Categories
 
-{% page-ref page="../" %}
-
+{% content-ref url="../" %}
+[..](../)
+{% endcontent-ref %}

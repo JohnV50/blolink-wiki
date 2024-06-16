@@ -54,7 +54,7 @@
 [updateuser.md](updateuser.md)
 {% endcontent-ref %}
 
-## Return to Categories
+### Return to Categories
 
 {% content-ref url="../" %}
 [..](../)

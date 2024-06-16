@@ -2,25 +2,44 @@
 
 ## Miscellaneous Category
 
-{% page-ref page="robloxsearch.md" %}
+{% content-ref url="robloxsearch.md" %}
+[robloxsearch.md](robloxsearch.md)
+{% endcontent-ref %}
 
-{% page-ref page="invite.md" %}
+{% content-ref url="invite.md" %}
+[invite.md](invite.md)
+{% endcontent-ref %}
 
-{% page-ref page="donate.md" %}
+{% content-ref url="donate.md" %}
+[donate.md](donate.md)
+{% endcontent-ref %}
 
-{% page-ref page="commands.md" %}
+{% content-ref url="commands.md" %}
+[commands.md](commands.md)
+{% endcontent-ref %}
 
-{% page-ref page="help.md" %}
+{% content-ref url="help.md" %}
+[help.md](help.md)
+{% endcontent-ref %}
 
-{% page-ref page="ping.md" %}
+{% content-ref url="ping.md" %}
+[ping.md](ping.md)
+{% endcontent-ref %}
 
-{% page-ref page="about.md" %}
+{% content-ref url="about.md" %}
+[about.md](about.md)
+{% endcontent-ref %}
 
-{% page-ref page="stats.md" %}
+{% content-ref url="stats.md" %}
+[stats.md](stats.md)
+{% endcontent-ref %}
 
-{% page-ref page="getinfo.md" %}
+{% content-ref url="getinfo.md" %}
+[getinfo.md](getinfo.md)
+{% endcontent-ref %}
 
-## Return to Categories
+### Return to Categories
 
-{% page-ref page="../" %}
-
+{% content-ref url="../" %}
+[..](../)
+{% endcontent-ref %}

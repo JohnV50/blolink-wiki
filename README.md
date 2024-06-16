@@ -20,7 +20,7 @@ You can either navigate with the sidebar, on your left side, through all the cat
 * **Commands 🤖:** Contains all Bloxlink's commands grouped in categories.
 * **Guides 📋:** Contains Bloxlink tutorials. Tutorials are grouped into different categories.
 
-### Looking for specific answers? 🔍
+## Looking for specific answers? 🔍
 
 Use the search bar on the right top side of your screen. Type a keyword of your issue/question and feel free to scroll through the results. Click any result to get full information.
 

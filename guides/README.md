@@ -8,17 +8,26 @@ description: >-
 
 ## Bloxlink Tutorials
 
-{% page-ref page="binding/" %}
+{% content-ref url="binding/" %}
+[binding](binding/)
+{% endcontent-ref %}
 
-{% page-ref page="verification/" %}
+{% content-ref url="verification/" %}
+[verification](verification/)
+{% endcontent-ref %}
 
-{% page-ref page="others/" %}
+{% content-ref url="others/" %}
+[others](others/)
+{% endcontent-ref %}
 
-### Looking for Commands?
+## Looking for Commands?
 
-{% page-ref page="../commands/" %}
+{% content-ref url="../commands/" %}
+[commands](../commands/)
+{% endcontent-ref %}
 
 ### Go Home
 
-{% page-ref page="../bloxlink/" %}
-
+{% content-ref url="../bloxlink/" %}
+[bloxlink](../bloxlink/)
+{% endcontent-ref %}

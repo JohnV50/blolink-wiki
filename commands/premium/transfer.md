@@ -6,13 +6,13 @@ description: Transfer your Bloxlink premium.
 
 ## Usage
 
-```text
+```
 !transfer
 ```
 
 ## Examples
 
-```text
+```
 !transfer @justin
 !transfer 84117866944663552
 !transfer disable
@@ -24,6 +24,11 @@ Doing `!transfer disable` will get your subscription back to you.
 
 ## Permissions
 
-**Premium Command**  
+**Premium Command**\
 This command can only be used by Bloxlink Premium members.
 
+### Return to Category
+
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}

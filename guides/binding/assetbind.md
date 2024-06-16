@@ -24,13 +24,13 @@ This prompt is an **advanced option**. If you wish Bloxlink to remove any other 
 
 ![](https://dark.hates-this.place/f/oX2rM0.png)
 
-Now you can provide the respective asset ID of the item you want to bind. You can find the ID between `/catalog/` and `/YourItemName/` or between `/games/` and `/YourGameName/`, if it is a paid game. \(See second image\)
+Now you can provide the respective asset ID of the item you want to bind. You can find the ID between `/catalog/` and `/YourItemName/` or between `/games/` and `/YourGameName/`, if it is a paid game. (See second image)
 
 ![](https://dark.hates-this.place/f/hiUCX7.png)
 
 ![Asset ID example](https://dark.hates-this.place/f/GrboRu.png)
 
-Provide the Discord role name\(s\) users should get if they meet the bind requirement. 
+Provide the Discord role name(s) users should get if they meet the bind requirement.
 
 ![](https://dark.hates-this.place/f/r13MqC.png)
 
@@ -50,3 +50,8 @@ That's all! You have bound a role with an asset in one command!
 
 Thanks for using Bloxlink. [❤️](https://emojipedia.org/red-heart/)
 
+### Return to Binding Tutorials
+
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}

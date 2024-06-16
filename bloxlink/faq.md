@@ -187,13 +187,13 @@ If you need help logging into the right account on the website, check this:
 
 Woops! You did not find an answer here? Reach us at our Support Server, we will answer any question that is not here. [blox.link/support](https://blox.link/support)
 
-## Return to Bloxlink
+### Return to Bloxlink
 
 {% content-ref url="./" %}
 [.](./)
 {% endcontent-ref %}
 
-## Go Home
+### Go Home
 
 {% content-ref url="../" %}
 [..](../)

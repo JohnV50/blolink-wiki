@@ -7,28 +7,43 @@ description: >-
 # Commands 🤖
 
 {% hint style="info" %}
-[🧙](https://emojipedia.org/mage/) **Tips:** The command prefix is `!` because this is Bloxlink's default prefix. Yours can be different! 
+[🧙](https://emojipedia.org/mage/) **Tips:** The command prefix is `!` because this is Bloxlink's default prefix. Yours can be different!
 {% endhint %}
 
-{% page-ref page="administration/prefix.md" %}
+{% content-ref url="administration/prefix.md" %}
+[prefix.md](administration/prefix.md)
+{% endcontent-ref %}
 
 ## Commands Categories
 
-{% page-ref page="administration/" %}
+{% content-ref url="administration/" %}
+[administration](administration/)
+{% endcontent-ref %}
 
-{% page-ref page="miscellaneous/" %}
+{% content-ref url="miscellaneous/" %}
+[miscellaneous](miscellaneous/)
+{% endcontent-ref %}
 
-{% page-ref page="binds/" %}
+{% content-ref url="binds/" %}
+[binds](binds/)
+{% endcontent-ref %}
 
-{% page-ref page="premium/" %}
+{% content-ref url="premium/" %}
+[premium](premium/)
+{% endcontent-ref %}
 
-{% page-ref page="account/" %}
+{% content-ref url="account/" %}
+[account](account/)
+{% endcontent-ref %}
 
-### Looking for Guides?
+## Looking for Guides?
 
-{% page-ref page="../guides/" %}
+{% content-ref url="../guides/" %}
+[guides](../guides/)
+{% endcontent-ref %}
 
 ### Go Home
 
-{% page-ref page="../bloxlink/" %}
-
+{% content-ref url="../bloxlink/" %}
+[bloxlink](../bloxlink/)
+{% endcontent-ref %}

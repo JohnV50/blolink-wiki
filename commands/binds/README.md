@@ -2,15 +2,24 @@
 
 ## Binds Category
 
-{% page-ref page="unbind.md" %}
+{% content-ref url="unbind.md" %}
+[unbind.md](unbind.md)
+{% endcontent-ref %}
 
-{% page-ref page="bind.md" %}
+{% content-ref url="bind.md" %}
+[bind.md](bind.md)
+{% endcontent-ref %}
 
-{% page-ref page="viewbinds.md" %}
+{% content-ref url="viewbinds.md" %}
+[viewbinds.md](viewbinds.md)
+{% endcontent-ref %}
 
-{% page-ref page="guestrole.md" %}
+{% content-ref url="guestrole.md" %}
+[guestrole.md](guestrole.md)
+{% endcontent-ref %}
 
-## Return to Categories
+### Return to Categories
 
-{% page-ref page="../" %}
-
+{% content-ref url="../" %}
+[..](../)
+{% endcontent-ref %}

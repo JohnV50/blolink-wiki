@@ -11,27 +11,36 @@ description: >-
 
 Check our Frequently Asked Questions section. Find answers to commonly asked questions by Bloxlink users.
 
-{% page-ref page="faq.md" %}
+{% content-ref url="faq.md" %}
+[faq.md](faq.md)
+{% endcontent-ref %}
 
 ## What's new? Check our changelog 🧪
 
 We love making changes to improve! Do you want to know what's new? Check our changelog section to know about Bloxlink changes.
 
-{% page-ref page="changelog.md" %}
+{% content-ref url="changelog.md" %}
+[changelog.md](changelog.md)
+{% endcontent-ref %}
 
 ## Looking for commands? 🤖
 
 Do you want to learn more about all Bloxlink's command? This is your section! Check all available commands here.
 
-{% page-ref page="../commands/" %}
+{% content-ref url="../commands/" %}
+[commands](../commands/)
+{% endcontent-ref %}
 
 ## Looking for guides? 📋
 
 We love helping you! Go through the guides section to know how to use Bloxlink better and make your server awesome.
 
-{% page-ref page="../guides/" %}
+{% content-ref url="../guides/" %}
+[guides](../guides/)
+{% endcontent-ref %}
 
-## Go Home
+### Go Home
 
-{% page-ref page="../" %}
-
+{% content-ref url="../" %}
+[..](../)
+{% endcontent-ref %}

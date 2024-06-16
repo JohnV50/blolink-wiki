@@ -2,7 +2,7 @@
 description: Enable/disable a server add-on
 ---
 
-# !addons
+# addons
 
 ## What are add-ons?
 
@@ -14,23 +14,24 @@ Bloxlink add-ons are optional modules to add, and offered to our Bloxlink Premiu
 
 ## Usage
 
-```text
+```
 !addons
 ```
 
-### Aliases
+## Aliases
 
-```text
+```
 !addon
 ```
 
-### Permissions
+## Permissions
 
-**Bloxlink Manager**  
-To grant this permission:  
+**Bloxlink Manager**\
+To grant this permission:\
 You need the `Manage Server` role permission.
 
 ### Return to Category
 
-{% page-ref page="./" %}
-
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}

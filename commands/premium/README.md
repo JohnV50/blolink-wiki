@@ -2,21 +2,36 @@
 
 ## Premium Category
 
-{% page-ref page="status.md" %}
+{% content-ref url="status.md" %}
+[status.md](status.md)
+{% endcontent-ref %}
 
-{% page-ref page="data.md" %}
+{% content-ref url="data.md" %}
+[data.md](data.md)
+{% endcontent-ref %}
 
-{% page-ref page="whitelabel.md" %}
+{% content-ref url="whitelabel.md" %}
+[whitelabel.md](whitelabel.md)
+{% endcontent-ref %}
 
-{% page-ref page="transfer.md" %}
+{% content-ref url="transfer.md" %}
+[transfer.md](transfer.md)
+{% endcontent-ref %}
 
-{% page-ref page="transfer.md" %}
+{% content-ref url="transfer.md" %}
+[transfer.md](transfer.md)
+{% endcontent-ref %}
 
-{% page-ref page="banevaders.md" %}
+{% content-ref url="banevaders.md" %}
+[banevaders.md](banevaders.md)
+{% endcontent-ref %}
 
-{% page-ref page="verifyall.md" %}
+{% content-ref url="verifyall.md" %}
+[verifyall.md](verifyall.md)
+{% endcontent-ref %}
 
-## Return to Categories
+### Return to Categories
 
-{% page-ref page="../" %}
-
+{% content-ref url="../" %}
+[..](../)
+{% endcontent-ref %}
