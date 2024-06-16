@@ -2,29 +2,31 @@
 description: Lock your server to group members only.
 ---
 
-# !grouplock
+# /grouplock
 
 ## Usage
 
-```text
-!grouplock <choice>
+```
+/grouplock add <choice>
 ```
 
 ## Aliases
 
-```text
-!group-lock
-!serverlock
-!server-lock
+```
+/grouplock list
+/grouplock remove
+/grouplock view
+
 ```
 
 ## Permissions
 
-**Bloxlink Manager**   
-To grant this permission:   
+**Bloxlink Manager**\
+To grant this permission:\
 You need the `Manage Server` role permission.
 
 ### Return to Category
 
-{% page-ref page="./" %}
-
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}

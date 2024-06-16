@@ -2,29 +2,24 @@
 description: Force update user(s) with roles and nicknames.
 ---
 
-# !updateuser
+# /update
 
 ## Usage
 
-```text
-!updateuser [users]
+```
+/updateuser [users]
 ```
 
-## Aliases
 
-```text
-!update
-!updateroles
-!updateuser
-```
 
 ## Permissions
 
-**Bloxlink Updater**  
-To grant this permission:  
- You need a role called `Bloxlink Updater`, or the `Manage Server` or `Manage Roles` role permission.
+**Bloxlink Updater**\
+To grant this permission:\
+You need a role called `Bloxlink Updater`, or the `Manage Server` or `Manage Roles` role permission.
 
 ### Return to Category
 
-{% page-ref page="./" %}
-
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}

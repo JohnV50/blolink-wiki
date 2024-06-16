@@ -2,27 +2,22 @@
 description: Restrict a Roblox user or group from verifying in your server.
 ---
 
-# !restrict
+# /restrict
 
 ## Usage
 
-```text
-!restrict
 ```
-
-## Aliases
-
-```text
-!restriction
+/restrict
 ```
 
 ## Permissions
 
-**Bloxlink Manager**  
-To grant this permission:  
+**Bloxlink Manager**\
+To grant this permission:\
 You need the `Manage Server` role permission.
 
 ### Return to Category
 
-{% page-ref page="./" %}
-
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
