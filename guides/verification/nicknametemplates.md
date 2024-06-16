@@ -6,9 +6,20 @@ description: Know about Bloxlink's nickname templates.
 
 ## Changing your nickname template
 
-_**Option one:**_ To setup a nickname for **all users** that verify/join the server, you can run `/setup`. This will then create a prompt that will allow you to setup the nickname template, from the dropdown menu select which nickname template you would like to use. A common one to use is `{smart-name}`, this will name people their Roblox name (and their Display name, if they have any).  After selecting you may click the `skip, leave unchanged button` to skip through the rest of the prompts. Once completed select done, and then your settings will be saved for your nickname template.
+There are two ways to set up a nickname template. Choose your preferred method below!
 
-_**Option Two:**_ The second way to setup the nickname template for _**all users**_ that verify/join the server. Navigate to the [Dashboard](https://blox.link/dashboard) and ensure you are signed into the correct account, once you ensure you are signed into the correct account click `manage servers` on the left side of your screen from the selection menu. You will then be taken to a list of your servers that you own or can manage, click on your server then select the `verification` tab, you will then be greeted with many options, choose the nickname template that you would like to apply to your server, then select save. Now your template has been saved!
+{% hint style="warning" %}
+To set a nickname template, you need to have the `manage server` permission enabled for the intended server.
+{% endhint %}
+
+
+
+**Using the Bloxlink Dashboard:** \
+The quickest way to set a nickname template for _**all users**_ who verify/join your server is to use the [Dashboard](https://blox.link/dashboard). Once on the dashboard and logged in, select your server under the `Manage Servers` tab. Next, click the `Verification` tab. Under `Default Nickname Template`, choose the nickname template that you would like to apply to your server, then click save.
+
+\
+**Using the Bloxlink Bot:**\
+To set a nickname template for _**all users**_ that verify/join the server, you can run `/setup`. Under the prompt, select `next`. You should see a list of all available nickname templates for you to choose from. Once you find your preferred template, select the `Type Response` button and type in your template. You also have the option to select `Disable` if you don't want Bloxlink to change a user's nickname. Proceed with the prompt until the end by selecting `skip` to leave all other settings unchanged.
 
 {% hint style="info" %}
 [🧙](https://emojipedia.org/mage/) **Tips:** Did you know you can combine more than one nickname template? `{group-rank} | {roblox-name}`, for example!
