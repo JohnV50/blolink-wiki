@@ -55,18 +55,18 @@ There is a few reasons Bloxlink may not be responding to you. First off, do `@Bl
 
 ## Q8) How do I link my Roblox group?
 
-If you have administrative permission in a server, you may run `!setup` and follow the prompts in Direct Messages.\
+If you have administrative permission in a server, you may run `/setup` and follow the prompts in the channel the command was ran in.\
 If you have difficulties in finding the group ID, just take the numbers (from the URL) just before the group name _or you can just take the entire URL._
 
-If you have already ran a setup, you can use the command called `!bind` instead;
+If you have already ran a setup, you can use the command called `/bind` instead;
 
-`1` Firstly you would have to run `!bind`, then choose `group`
+`1` Firstly you would have to run `/bind`, then choose `group`
 
-`2` Now you will have to set the `nicknameTemplate` for this group bind. (Most common nickname template is to use their Roblox usernames, which is `{roblox-name}` or say `skip` if you do not want one.)
+`2` Now you will have to set the `nicknameTemplate` for this group bind. (Most common nickname template is to use their Roblox usernames, which is `{roblox-name}` or click `skip` if you do not want one.)
 
-`3` You'll be prompted if you want your users roles to be removed if they meet the bind requirements, choose based on your preference! This is an advanced option, if you don't really know how it works, say `skip`.
+`3` You'll be prompted if you want your users roles to be removed if they meet the bind requirements, choose based on your preference! This is an advanced option, if you don't really know how it works, click `skip`.
 
-`4` Finally, say your group ID. After that say `entire group`. _(If you have difficulties in finding the group ID, just take the numbers (from the URL) just before the group name. Or you can just take the entire URL)._
+`4` Finally, enter your group ID. After that say `entire group`. _(If you have difficulties in finding the group ID, just take the numbers (from the URL) just before the group name. Or you can just take the entire URL)._
 
 ## Q9) How do I set up a nickname template?
 
@@ -118,17 +118,13 @@ To set a nickname template for _**all users**_ that verify/join the server, you 
 
 ## Q10) What is Bloxlink Canary? How do I use it?
 
-Bloxlink Canary is a feature bot, that is updated to test out our new features before they are released on `Bloxlink#6871` or/and `Bloxlink Pro#2989`. You can read more about Bloxlink Canary by reacting to “QA Program Member” in the `get-a-role` channel in our Discord server.
-
-{% hint style="warning" %}
-[🧠](https://emojipedia.org/brain/) **Note:** Bloxlink Canary is for testing. It is not recommended to be used as a main bot, instead, to be used for testing new features. You may test features early with Canary.
-{% endhint %}
+Bloxlink Canary is a feature bot, that is updated to test out our new features, currently Canary is not available to use anymore and is no longer supported.
 
 ## Q11) Why does Bloxlink Pro keep saying my server is not authorized to use Bloxlink Pro?
 
-This can be because the **server owner** doesn’t have a Bloxlink subscription license. You will only be able to use premium/pro in the server if the server owner owns a Bloxlink subscription. If you wish to transfer this license to a friend that owns a server where you’d like to use the features of premium/pro, then you can transfer your license temporarily by saying `!transfer @serverOwner`. You can always get the license back if you regret that you’ve loaned them the license by saying `!transfer disable`.
+This can be because the **server owner** doesn’t have a Bloxlink subscription license. You will only be able to use premium/pro in the server if the server owner owns a Bloxlink subscription. If you wish to transfer this license to a friend that owns a server where you’d like to use the features of premium/pro, then you can transfer your license by visiting the my subscriptions tab via the [dashboard.](https://blox.link/dashboard)
 
-This might also be due to you not actually having the Pro license. If you bought Bloxlink Premium Lifetime once it was available, then that’s why. Bloxlink Premium and Bloxlink Pro **is not** the same. Bloxlink Premium gives you access to the commands under “Premium” displayed in `!help`. Bloxlink Pro means you have the ability to invite `Bloxlink Pro#2989` to your server. You can check your Bloxlink subscription license by saying `!status`.
+This might also be due to you not actually having the Pro license. If you bought Bloxlink Premium Lifetime once it was available, then that’s why. Bloxlink Premium and Bloxlink Pro **is not** the same. Bloxlink Premium gives you access to the commands under “Premium” displayed in `/help`. Bloxlink Pro means you have the ability to invite `Bloxlink Pro#2989` to your server. You can check your Bloxlink subscription license by using the command`/server status.`
 
 ## Q12) I bought Bloxlink Pro! Do I have to redo all my binds and setup?
 
@@ -143,11 +139,11 @@ The same happens if you one day want to cancel your Bloxlink subscription. Thing
 
 Magic roles are roles that will allow you to do administrative things ONLY within Bloxlink!
 
-For example if you want to allow someone to run the `!update`/`!verifyall` command, but don't want to grant them the `Manage Server` permission. That's what these "Magic Roles" do. There are 3 types of magic roles:
+For example if you want to allow someone to run the `/update or` `/verifyall` command, but don't want to grant them the `Manage Server` permission. That's what these "Magic Roles" do. There are 3 types of magic roles:
 
-**Bloxlink Bypass:** This will make Bloxlink ignore the people with this role. They will for example be ignored if someone runs `!update` on them. This way they can have a custom name and have roles that Bloxlink would normally remove.
+**Bloxlink Bypass:** This will make Bloxlink ignore the people with this role. They will for example be ignored if someone runs `/update` on them. This way they can have a custom name and have roles that Bloxlink would normally remove.
 
-**Bloxlink Updater:** This will allow people to run the `!update` command on others as well as the `!verifyall` command. This is very smart if you for example updated someone's group rank, and want someone to update the "suspect".
+**Bloxlink Updater:** This will allow people to run the `/update` command on others as well as the `/verifyall` command. This is very smart if you for example updated someone's group rank, and want someone to update the "suspect".
 
 **Bloxlink Admin:** This will allow people to be able to run **all** commands with Bloxlink. This is a dangerous role to give people, if you don't trust them. Be careful, cause they will be able to change settings within Bloxlink, delete binds (linked groups and other binds), setup the bot again and such administrative permissions.
 
