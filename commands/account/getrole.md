@@ -2,23 +2,16 @@
 description: Get your server roles.
 ---
 
-# !getrole
+# /getrole
 
 ## Usage
 
-```text
-!getrole
 ```
-
-## Aliases
-
-```text
-!getroles
-!get-roles
-!get-role
+/getrole
 ```
 
 ### Return to Category
 
-{% page-ref page="./" %}
-
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}

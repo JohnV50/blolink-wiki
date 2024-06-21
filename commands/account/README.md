@@ -2,16 +2,16 @@
 
 ## Account Category
 
-{% content-ref url="profile.md" %}
-[profile.md](profile.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="getrole.md" %}
 [getrole.md](getrole.md)
 {% endcontent-ref %}
 
-{% content-ref url="switchuser.md" %}
-[switchuser.md](switchuser.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="verify.md" %}
