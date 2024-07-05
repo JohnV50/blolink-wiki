@@ -9,13 +9,13 @@ description: Know about Bloxlink's nickname templates.
 There are two ways to set up a nickname template. Choose your preferred method below!
 
 {% hint style="warning" %}
-To set a nickname template, you need to have the `manage server` permission enabled for the intended server.
+To set a nickname template, you need to have the `Manage server` permission enabled for the intended server.
 {% endhint %}
 
 
 
 **Using the Bloxlink Dashboard:** \
-The quickest way to set a nickname template for _**all users**_ who verify/join your server is to use the [Dashboard](https://blox.link/dashboard). Once on the dashboard and logged in, select your server under the `Manage Servers` tab. Next, click the `Verification` tab. Under `Default Nickname Template`, choose the nickname template that you would like to apply to your server, then click save.
+The quickest way to set a nickname template for _**all users**_ who join your server, is to use the [Dashboard](https://blox.link/dashboard/user/servers). Once on the dashboard and logged in, select your server under the `Manage Servers` tab. Next, click the `Verification` tab. Under `Default Nickname Template`, choose the nickname template that you would like to apply to your server, then click save.
 
 \
 **Using the Bloxlink Bot:**\
@@ -30,40 +30,40 @@ To set a nickname template for _**all users**_ that verify/join the server, you 
 #### Roblox Related Templates
 
 ```
-{roblox-name} -> changes to their Roblox username (unique)
-{display-name} -> changes to their Roblox display name (not unique)
-{smart-name} -> changes to their Roblox display name (roblox username) if the user has a display name; otherwise, changes to their Roblox username
-{roblox-id} -> changes to their Roblox ID
-{roblox-age} -> changes to their Roblox user age in days
-{roblox-join-date} -> changes to their Roblox join date
+{roblox-name} → changes to their Roblox username (unique)
+{display-name} → changes to their Roblox display name (not unique)
+{smart-name} → changes to their Roblox display name (@roblox username) if the user has a display name; otherwise, changes to their Roblox username
+{roblox-id} → changes to their Roblox ID
+{roblox-age} → changes to their Roblox user age in days
+{roblox-join-date} → changes to their Roblox join date
 ```
 
 #### Group Related Templates
 
 ```
-{group-rank} -> changes to their current rank in the linked group
-{group-rank-id} -> changes to their rank in THAT group specified by group ID <id>, example: {group-rank-1337}
+{group-rank} → changes to their current rank in the linked group
+{group-rank-id} → changes to their rank in THAT group specified by group ID <id>, example: {group-rank-1337}
 ```
 
 #### Discord Related Templates
 
 ```
-{discord-name} -> changes to their Discord display name; works on unverified users
-{discord-nick} -> changes to their Discord nickname; works on unverified users
+{discord-name} → changes to their Discord username; works on unverified users
+{discord-global-name} → changes to their Discord display name; works on unverified users
+{discord-nick} → changes to their Discord nickname; works on unverified users
 ```
 
 #### Templates Commonly used on the WelcomeMessage
 
 ```
-{server-name} -> replaces with the server name (Typically used for the !welcomemessage command)
-{prefix} -> changes to the server prefix; works on unverified users
+{server-name} → replaces with the server name (Typically used for the !welcomemessage command)
+{prefix} → changes to the server prefix; works on unverified users
 ```
 
 #### Others Templates
 
 ```
-{disable-nicknaming} -> overrides all other options and returns a blank nickname. Note that this ONLY APPLIES TO NICKNAMES.
-{clan-tag} -> replaces with the user's custom clantag, set with !clantag
+{disable-nicknaming} → overrides all other options and returns a blank nickname. Note that this ONLY APPLIES TO NICKNAMES.
 ```
 
 {% hint style="warning" %}
